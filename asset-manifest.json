@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/AdityaSharma6.github.io/static/css/main.5f361e03.chunk.css",
-    "main.js": "/AdityaSharma6.github.io/static/js/main.7f626ea9.chunk.js",
-    "main.js.map": "/AdityaSharma6.github.io/static/js/main.7f626ea9.chunk.js.map",
+    "main.css": "/AdityaSharma6.github.io/static/css/main.2e3581bf.chunk.css",
+    "main.js": "/AdityaSharma6.github.io/static/js/main.3efa9d28.chunk.js",
+    "main.js.map": "/AdityaSharma6.github.io/static/js/main.3efa9d28.chunk.js.map",
     "runtime-main.js": "/AdityaSharma6.github.io/static/js/runtime-main.d7eb29c0.js",
     "runtime-main.js.map": "/AdityaSharma6.github.io/static/js/runtime-main.d7eb29c0.js.map",
-    "static/js/2.b78a5752.chunk.js": "/AdityaSharma6.github.io/static/js/2.b78a5752.chunk.js",
-    "static/js/2.b78a5752.chunk.js.map": "/AdityaSharma6.github.io/static/js/2.b78a5752.chunk.js.map",
+    "static/js/2.e7ad4042.chunk.js": "/AdityaSharma6.github.io/static/js/2.e7ad4042.chunk.js",
+    "static/js/2.e7ad4042.chunk.js.map": "/AdityaSharma6.github.io/static/js/2.e7ad4042.chunk.js.map",
     "index.html": "/AdityaSharma6.github.io/index.html",
-    "precache-manifest.b17509e44f850c7d1f541c555271a3b8.js": "/AdityaSharma6.github.io/precache-manifest.b17509e44f850c7d1f541c555271a3b8.js",
+    "precache-manifest.bf891ffc90dd93e9d0b612b3addad89e.js": "/AdityaSharma6.github.io/precache-manifest.bf891ffc90dd93e9d0b612b3addad89e.js",
     "service-worker.js": "/AdityaSharma6.github.io/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/AdityaSharma6.github.io/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.b78a5752.chunk.js.LICENSE.txt": "/AdityaSharma6.github.io/static/js/2.b78a5752.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/AdityaSharma6.github.io/static/media/logo.5d5d9eef.svg"
+    "static/css/main.2e3581bf.chunk.css.map": "/AdityaSharma6.github.io/static/css/main.2e3581bf.chunk.css.map",
+    "static/js/2.e7ad4042.chunk.js.LICENSE.txt": "/AdityaSharma6.github.io/static/js/2.e7ad4042.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7eb29c0.js",
-    "static/js/2.b78a5752.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7f626ea9.chunk.js"
+    "static/js/2.e7ad4042.chunk.js",
+    "static/css/main.2e3581bf.chunk.css",
+    "static/js/main.3efa9d28.chunk.js"
   ]
 }
