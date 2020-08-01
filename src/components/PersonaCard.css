@@ -1,0 +1,14 @@
+.personaCard {
+    border: thin solid brown;
+    height: 66vh;
+    width: 66vw;
+    max-width: 350px;
+    max-height: 700px;
+    min-width: calc(0.66 * 400px);
+    min-height: calc(0.66 * 700px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
