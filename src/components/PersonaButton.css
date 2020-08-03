@@ -1,7 +1,83 @@
-button {
+.singularPersonaButtonContainer{
+    width: 32%;
+    height: 45%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.personaButton {
     background-color: gold;
     color: black;
     border: none;
     border-radius: 15px;
-    padding: 10px 20px;
+    width: 100%;
+    height: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    outline: none;
+}
+
+.personaFontAwesomeIconContainer {
+    width: 33%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.personaFontAwesomeIcon{
+    font-size: 3.0em;
+    max-width: 95%;
+    max-height: 95%;
+    color: black;
+    background-color: gold;
+}
+
+.personaButtonTextContainer {
+    width: 62%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0% 1% 0% 1%;
+}
+
+.personaButtonText {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    font-size: 100%;
+    max-width: 95%;
+    max-height: 100%;
+}
+
+@media only screen and (min-width: 500px){
+    .personaButtonText {
+        font-size: 110%;
+    }
+}
+
+@media only screen and (min-width: 600px){
+    .personaButtonText {
+        font-size: 120%;
+    }
+}
+
+@media only screen and (min-width: 700px){
+    .personaButtonText {
+        font-size: 130%;
+    }
+}
+
+@media only screen and (min-width: 800px){
+    .personaButtonText {
+        font-size: 140%;
+    }
 }

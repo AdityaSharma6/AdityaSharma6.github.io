@@ -2,13 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faCheckSquare, faCoffee } from '@fortawesome/free-solid-svg-icons'
-
+import { faCoffee, faEnvelope, faCode } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faFile} from "@fortawesome/free-regular-svg-icons"
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-library.add(faCheckSquare, faCoffee)
+library.add(faCoffee, faFile, faGithub, faLinkedin, faEnvelope, faCode)
 
 ReactDOM.render(
   <React.StrictMode>
