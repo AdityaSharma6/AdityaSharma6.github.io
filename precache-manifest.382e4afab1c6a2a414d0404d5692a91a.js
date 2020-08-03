@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e24f2df71e9137a443f56b670a67e579",
+    "revision": "f92efd8c10ed464abe3dcca246edc6cc",
     "url": "/AdityaSharma6.github.io/index.html"
   },
   {
-    "revision": "a19f53eb7daf54097978",
-    "url": "/AdityaSharma6.github.io/static/css/main.f7f83dac.chunk.css"
+    "revision": "e3d14b3bc71e3d9eb25e",
+    "url": "/AdityaSharma6.github.io/static/css/main.aa2893df.chunk.css"
   },
   {
     "revision": "1cab2279f323b69fdc60",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AdityaSharma6.github.io/static/js/2.078ef63f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a19f53eb7daf54097978",
+    "revision": "e3d14b3bc71e3d9eb25e",
     "url": "/AdityaSharma6.github.io/static/js/main.c57df6c6.chunk.js"
   },
   {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/AdityaSharma6.github.io/static/css/main.f7f83dac.chunk.css",
+    "main.css": "/AdityaSharma6.github.io/static/css/main.aa2893df.chunk.css",
     "main.js": "/AdityaSharma6.github.io/static/js/main.c57df6c6.chunk.js",
     "main.js.map": "/AdityaSharma6.github.io/static/js/main.c57df6c6.chunk.js.map",
     "runtime-main.js": "/AdityaSharma6.github.io/static/js/runtime-main.d7eb29c0.js",
@@ -8,15 +8,15 @@
     "static/js/2.078ef63f.chunk.js": "/AdityaSharma6.github.io/static/js/2.078ef63f.chunk.js",
     "static/js/2.078ef63f.chunk.js.map": "/AdityaSharma6.github.io/static/js/2.078ef63f.chunk.js.map",
     "index.html": "/AdityaSharma6.github.io/index.html",
-    "precache-manifest.d800c505f53b7f29981668eb040ec8b5.js": "/AdityaSharma6.github.io/precache-manifest.d800c505f53b7f29981668eb040ec8b5.js",
+    "precache-manifest.382e4afab1c6a2a414d0404d5692a91a.js": "/AdityaSharma6.github.io/precache-manifest.382e4afab1c6a2a414d0404d5692a91a.js",
     "service-worker.js": "/AdityaSharma6.github.io/service-worker.js",
-    "static/css/main.f7f83dac.chunk.css.map": "/AdityaSharma6.github.io/static/css/main.f7f83dac.chunk.css.map",
+    "static/css/main.aa2893df.chunk.css.map": "/AdityaSharma6.github.io/static/css/main.aa2893df.chunk.css.map",
     "static/js/2.078ef63f.chunk.js.LICENSE.txt": "/AdityaSharma6.github.io/static/js/2.078ef63f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7eb29c0.js",
     "static/js/2.078ef63f.chunk.js",
-    "static/css/main.f7f83dac.chunk.css",
+    "static/css/main.aa2893df.chunk.css",
     "static/js/main.c57df6c6.chunk.js"
   ]
 }
