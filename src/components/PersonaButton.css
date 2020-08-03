@@ -1,5 +1,6 @@
 .singularPersonaButtonContainer{
-    width: 32%;
+    max-width: 45%;
+    min-width: 32%;
     height: 45%;
     display: flex;
     flex-direction: column;
@@ -78,6 +79,6 @@
 
 @media only screen and (min-width: 800px){
     .personaButtonText {
-        font-size: 140%;
+        font-size: 132%;
     }
 }

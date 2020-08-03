@@ -1,16 +1,89 @@
 .personaCard {
-    border: thin solid brown;
     height: 66vh;
     width: 66vw;
-    max-width: 460px;
-    max-height: 720px;
+    border-radius: 16px;
+    max-width: 360px;
+    max-height: 650px;
     min-width: 300px;
     min-height: 600px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     text-align: center;
+    border: thin solid lightslategray;
+    padding: 3%
+}
+
+.personaPictureContainer {
+    width: 100%;
+    height: 15%;
+}
+
+.personaPicture {
+    color: black;
+    background-color: gold;
+    font-size: 12em;
+    border-radius: 50%;
+    position: relative;
+    top: -115%;
+}
+
+.personaCardContentContainer {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.personaNameContainer {
+    width: 100%;
+    height: 25%;
+    color: gold;
+    font-weight: 800;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.personaLocationContainer {
+    color: grey;
+    width: 100%;
+    height: 5%;
+}
+
+.personaEducationInstitutionContainer {
+    color: grey;
+    width: 100%;
+    height: 5%;
+}
+
+.personaEducationContainer {
+    color: grey;
+    width: 100%;
+    height: 5%;
+}
+
+.personaEmploymentContainer {
+    margin: 5%;
+    color: gold;
+    width: 100%;
+    height: 5%;
+}
+
+.personaEmployment {
+    margin: 0% 2% 0% 2%;
+}
+
+.personaDetailsContainer {
+    color: gold;
+    width: 100%;
+    height: 15%;
+    margin-bottom: 20%;
 }
 
 .personaCardButtonsContainer {
@@ -20,5 +93,5 @@
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
-    height: 15%;
+    height: 20%;
 }

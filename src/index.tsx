@@ -2,14 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faCoffee, faEnvelope, faCode } from '@fortawesome/free-solid-svg-icons'
-import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons'
+import { faCoffee, faEnvelope, faCode, faMapMarkerAlt, faUniversity, faLaptopMedical, faBriefcase, faUserCircle } from '@fortawesome/free-solid-svg-icons'
+import { faGithub, faLinkedin, faGoogle } from '@fortawesome/free-brands-svg-icons'
 import { faFile} from "@fortawesome/free-regular-svg-icons"
+
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-library.add(faCoffee, faFile, faGithub, faLinkedin, faEnvelope, faCode)
+library.add(faCoffee, faFile, faGithub, faLinkedin, faEnvelope, faCode, faMapMarkerAlt, faUniversity, faLaptopMedical, faBriefcase, faGoogle, faUserCircle)
 
 ReactDOM.render(
   <React.StrictMode>

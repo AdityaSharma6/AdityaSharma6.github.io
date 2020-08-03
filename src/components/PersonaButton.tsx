@@ -11,9 +11,13 @@ export interface PersonaButtonProps {
 
 
 export default function PersonaButton(props: PersonaButtonProps){
+    const onClick = (event: any) => {
+        window.open(props.link, "_blank");
+    }
+
     return(
         <div className={"singularPersonaButtonContainer"}>
-            <button className={"personaButton"}>
+            <button onClick={onClick} className={"personaButton"}>
                 <div className={"personaFontAwesomeIconContainer"}>
                     <FontAwesomeIcon icon={props.icon} className={"personaFontAwesomeIcon"}/>
                 </div>
