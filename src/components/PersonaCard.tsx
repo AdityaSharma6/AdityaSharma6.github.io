@@ -73,11 +73,13 @@ export default function PersonaCard() {
                     <p> Full-Stack Development, Data Science & App Development - thats my bread and butter! </p>
                     <p> Have a work item? Reach out to me! I also freelance in Digital Marketing & Software Development.</p>
                 </div>
+
                 <div className={"personaCardButtonsContainer"}>
                     {PersonaButtonContent.map(content => (
                         <PersonaButton key={content.buttonText} icon={content.icon} buttonText={content.buttonText} link={content.link}/>
                     ))}
                 </div>
+                
             </div>
         </div>
     );
